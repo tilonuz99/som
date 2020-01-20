@@ -1,0 +1,68 @@
+{
+    "token":"1035357676:AAEsx1uTFzL2atuLWfEMxkNZholrqpckJsQ",
+    "admins":["630751054","811992586"],
+    "mainAdmin":"@OYATlLLO",
+    "qiwi":
+    {
+        "token":"19bb133d478877284f0dd6817ebd89ef",
+    "number":
+    "+998995322553"
+        
+    },
+    "generic":[
+        {
+            "name":"pps","value":"0.3",
+            "userFriendly":"Рекламодатель за подписчика"
+            
+        },
+            {
+                "name":"ppv",
+                "value":"0.03",
+                "userFriendly":"Рекламодатель за просмотр"
+                
+            },
+            {
+                "name":"pps_user",
+                "value":"0.2",
+                "userFriendly":"Пользователю за подписку"
+                
+            },
+                {
+                    "name":"ppv_user",
+                    "value":"0.02",
+                    "userFriendly":"Пользователю за просмотр"
+                    
+                },
+                {
+                        "name":"ppr",
+                        "value":"0.3",
+                        "userFriendly":"Пользователю за реферала"
+                    
+                },
+                        {
+                            "name":"ref1st",
+                            "value":"0.2",
+                            "userFriendly":"Проценты от заработка реферала"
+                            
+                        },
+                        {
+    "name":"min_withdraw",
+    "value":"15",
+    "userFriendly":"Минимальный вывод"
+                            
+                        },
+                        {
+    "name":"refovod_balance",
+    "value":"0.1",
+    "userFriendly":"Проценты с пополнений рефералов"
+    
+},
+{
+    "name":"refovod_podpiska",
+    "value":"0.04",
+    "userFriendly":"Копейки с подписки реферала"
+    
+}
+]
+    
+}
